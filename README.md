@@ -33,7 +33,7 @@ INSTALAÇÃO:
 
 ## CARACTERÍSTICAS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
-| PREMIIAO BOT      |                   Característica        |
+| PREMIIADO BOT      |                   Característica        |
 | :-----------: | :------------------------------: |
 |       ✅       | Criador de adesivos                  |
 |       ✅       | Nulis                            |
